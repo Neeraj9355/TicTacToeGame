@@ -41,4 +41,4 @@ Challenge a friend to a local match and see who can get three in a row first!
       3. Double-click the TicTacToeGame.jar file.
           -- The game window should open immediately.
           
----------------------------------------- Enjoy the game! If you have any questions or feedback, feel free to open an issue. ----------------------------------------
+-------------------------------- Enjoy the game! If you have any questions or feedback, feel free to open an issue. --------------------------------
